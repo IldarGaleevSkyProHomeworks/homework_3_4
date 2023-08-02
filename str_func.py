@@ -5,4 +5,5 @@ def uppercase(string: str):
 
 def capitalize(string: str):
     """ capitalize method """
+    # some fix
     return string.capitalize()
